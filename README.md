@@ -20,6 +20,12 @@
 
 ---
 
+## 🚀 Live Demo
+
+🌐 https://yourwebsite.vercel.app
+
+---
+
 ## ✨ Highlights
 
 <table>
@@ -154,12 +160,6 @@
 </td>
 </tr>
 </table>
-
----
-
-## 📊 Platform Stats
-
-<img width="1895" height="332" alt="Status" src="https://github.com/user-attachments/assets/5b7ea356-1657-4f20-8afe-37596da8148e" />
 
 ---
 
