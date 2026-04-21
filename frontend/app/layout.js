@@ -43,7 +43,7 @@ export default function RootLayout({ children }) {
                 <div className="flex items-center gap-4">
                   <div className="rounded-2xl border border-stone-200 bg-white shadow-sm p-2.5 ring-1 ring-stone-100">
                     <Image
-                      src="/Footer_Logo.jfif"
+                      src="/footer_logo.png"
                       alt="NutriChef Logo"
                       width={48}
                       height={48}
